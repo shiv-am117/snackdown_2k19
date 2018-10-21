@@ -1,2 +1,2 @@
-# snackdown_qualifier
-snackdown 2k19 qualifier round
+# snackdown
+snackdown 2k19 
